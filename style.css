@@ -1,0 +1,10 @@
+.Ventas1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 5%;
+}
+
+.Ventas2{
+    display: flex;
+    justify-content: space-evenly;
+}
